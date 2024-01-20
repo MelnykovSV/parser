@@ -1,0 +1,7 @@
+2023/12/19-16:33:03.210 2f48 Reusing MANIFEST D:\GIT-repositories\parser\tmp\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/19-16:33:03.210 2f48 Recovering log #3
+2023/12/19-16:33:03.233 2f48 Reusing old log D:\GIT-repositories\parser\tmp\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2023/12/19-16:33:06.113 2028 Level-0 table #5: started
+2023/12/19-16:33:06.144 2028 Level-0 table #5: 19197 bytes OK
+2023/12/19-16:33:06.193 2028 Delete type=0 #3
+2023/12/19-16:33:06.194 2028 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

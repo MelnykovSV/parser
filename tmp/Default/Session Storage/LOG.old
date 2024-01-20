@@ -1,0 +1,18 @@
+2024/01/19-19:17:12.909 86e0 Reusing MANIFEST D:\GIT-repositories\parser\tmp\Default\Session Storage/MANIFEST-000001
+2024/01/19-19:17:12.911 86e0 Recovering log #607
+2024/01/19-19:17:12.913 86e0 Reusing old log D:\GIT-repositories\parser\tmp\Default\Session Storage/000607.log 
+2024/01/19-19:32:08.725 86e0 Level-0 table #611: started
+2024/01/19-19:32:08.801 86e0 Level-0 table #611: 24440 bytes OK
+2024/01/19-19:32:08.876 86e0 Delete type=0 #607
+2024/01/19-20:12:18.879 7184 Level-0 table #613: started
+2024/01/19-20:12:18.916 7184 Level-0 table #613: 23962 bytes OK
+2024/01/19-20:12:18.947 7184 Delete type=0 #610
+2024/01/19-20:12:18.947 7184 Compacting 4@0 + 1@1 files
+2024/01/19-20:12:19.202 7184 Generated table #614@0: 75920 keys, 2119507 bytes
+2024/01/19-20:12:19.202 7184 Compacted 4@0 + 1@1 files => 2119507 bytes
+2024/01/19-20:12:19.237 7184 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/19-20:12:19.238 7184 Delete type=2 #604
+2024/01/19-20:12:19.238 7184 Delete type=2 #606
+2024/01/19-20:12:19.238 7184 Delete type=2 #608
+2024/01/19-20:12:19.238 7184 Delete type=2 #611
+2024/01/19-20:12:19.238 7184 Delete type=2 #613

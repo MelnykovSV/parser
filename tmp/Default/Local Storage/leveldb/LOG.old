@@ -1,0 +1,6 @@
+2024/01/19-19:17:07.987 86e0 Reusing MANIFEST D:\GIT-repositories\parser\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2024/01/19-19:17:07.989 86e0 Recovering log #286
+2024/01/19-19:17:07.990 86e0 Reusing old log D:\GIT-repositories\parser\tmp\Default\Local Storage\leveldb/000286.log 
+2024/01/19-20:42:14.900 7184 Level-0 table #291: started
+2024/01/19-20:42:14.950 7184 Level-0 table #291: 10572 bytes OK
+2024/01/19-20:42:14.978 7184 Delete type=0 #286
