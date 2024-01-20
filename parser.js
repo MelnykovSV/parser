@@ -50,7 +50,7 @@ async function parseVacancies(URLs, selector, fileName, browser) {
         await page.close();
       }, 10000);
     });
-  }, 60000);
+  }, 300000);
 }
 
 module.exports = {

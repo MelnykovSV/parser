@@ -23,15 +23,15 @@ const dataToParse = [
     fileName: 'work_ua',
   },
 
-  {
-    URLs: [
-      'https://recruitika.com/?collections=remote&tags=front-end',
-      'https://recruitika.com/?collections=remote&tags=reactjs_',
-      'https://recruitika.com/?collections=remote&tags=js',
-    ],
-    selector: '.vacancy-title>a',
-    fileName: 'recruitika_com',
-  },
+  // {
+  //   URLs: [
+  //     'https://recruitika.com/?collections=remote&tags=front-end',
+  //     'https://recruitika.com/?collections=remote&tags=reactjs_',
+  //     'https://recruitika.com/?collections=remote&tags=js',
+  //   ],
+  //   selector: '.vacancy-title>a',
+  //   fileName: 'recruitika_com',
+  // },
   {
     URLs: [
       'https://jobs.dou.ua/vacancies/?remote&category=Front%20End&exp=0-1',
@@ -42,11 +42,7 @@ const dataToParse = [
     fileName: 'dou',
   },
   {
-    URLs: [
-      'https://robota.ua/zapros/react/ukraine?scheduleIds=3',
-      // 'https://robota.ua/zapros/junior-javascript-developer/ukraine?scheduleIds=3',
-      // 'https://robota.ua/zapros/junior-frontend-developer/ukraine?scheduleIds=3',
-    ],
+    URLs: ['https://robota.ua/zapros/react/ukraine?scheduleIds=3'],
     selector: 'alliance-vacancy-card-desktop > a',
     fileName: 'robota_ua',
   },
